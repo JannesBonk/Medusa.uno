@@ -1,1 +1,15 @@
+5.12.2022 patch notes :
+[+] Added more scope types
+[+] Custom scope can be solid/faded
+[+] You can now make the custom scope faded in or faded out based on scope offset
+[+] Changed the way DT works on scout
+[+] Anti-Aim is static when manual is active
+[+] Fixed spin AA modifier
+[+] Fixed legitbot not working
+[+] Scout shoots faster when using exploits
+[+] Smalle tweaks to ragebot
+[+] Multipoint is now separate ( head & body )
+[+] Custom player model is back
+[+] Custom gravity on ragdolls
 
+?.12.2022 patch notes :

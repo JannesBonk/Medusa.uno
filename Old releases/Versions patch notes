@@ -13,5 +13,14 @@
 [+] Custom player model is back
 [+] Custom gravity on ragdolls
 ----------------------------------------------------------------------------------
-?.12.2022 patch notes :
+14.12.2022 patch notes :
+[+] Fake flick
+[+] Fixed some tickbase issues
+[+] Anti-aim can be enabled in freezetime
+[+] Fixed thirdperson being broken when dead
+[+] Added force baim
+[+] You can now disable borders in Keybinds list, Spec list, Player list, Purchase list, Watermark, Bomb Timer, Hurt indicator
+[+] Reworked AA arrows
+[+] Added discord button for people that will share dll or use it in their loader
+[+] Fixed cheat for latest update
 ----------------------------------------------------------------------------------

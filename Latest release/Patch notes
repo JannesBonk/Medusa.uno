@@ -1,9 +1,10 @@
-[+] Fake flick
-[+] Fixed some tickbase issues
-[+] Anti-aim can be enabled in freezetime
-[+] Fixed thirdperson being broken when dead
-[+] Added force baim
-[+] You can now disable borders in Keybinds list, Spec list, Player list, Purchase list, Watermark, Bomb Timer, Hurt indicator
-[+] Reworked AA arrows
-[+] Added discord button for people that will share dll or use it in their loader
-[+] Fixed cheat for latest update
+[+] Static legs in air
+[+] Fixed fake lag not working without fake angles
+[+] Offscreen arrows can have outlines now
+[+] Small change to bullet tracer
+[+] Small change to menu
+[+] Added GIGN player model
+[+] Fixed fake lag not working without fake angles
+[+] Small FPS improvment
+[+] Fixed backtracking while flashed and through smoke not working
+[+] Footsteps ESP

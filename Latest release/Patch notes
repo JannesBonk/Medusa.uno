@@ -1,10 +1,5 @@
-[+] Static legs in air
-[+] Fixed fake lag not working without fake angles
-[+] Offscreen arrows can have outlines now
-[+] Small change to bullet tracer
-[+] Small change to menu
-[+] Added GIGN player model
-[+] Fixed fake lag not working without fake angles
-[+] Small FPS improvment
-[+] Fixed backtracking while flashed and through smoke not working
-[+] Footsteps ESP
+[+} Fixed DT and HS crashing cheat when dying/spectating
+[+] Changed some offsets
+[+] Small menu change
+[+] Footstep ESP visible through wall
+[+] Loader working again

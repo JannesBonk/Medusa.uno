@@ -36,3 +36,23 @@
 [+] Fixed backtracking while flashed and through smoke not working
 [+] Footsteps ESP
 ----------------------------------------------------------------------------------
+20.12.2022 patch notes :
+[+} Fixed DT and HS crashing cheat when dying/spectating
+[+] Changed some offsets
+[+] Small menu change
+[+] Footstep ESP visible through wall
+[+] Loader working again
+----------------------------------------------------------------------------------
+29.12.2022 patch notes :
+[+] Fixed bugs with keybinds list
+[+] Added Glow style to grenade predition
+[+] Taser range
+[+] Knife range
+[+] G3SG1 and SCAR-20 weapons have been moved to Auto section in ragebot
+[+] Fixed zeus tab in ragebot being the same as Global
+[+] Some menu tweaks ( made it a lil bit more compact, logo has a drop down shadow, changed sidebar a lil bit, now you can see which sub-tab is active )
+[+] Updated smoke timer
+[+] Updated molotov timer
+[+] Prediction update
+[+] Fixed some stuff with fake-lag, now you can use 15 fake lag limit
+----------------------------------------------------------------------------------

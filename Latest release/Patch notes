@@ -1,11 +1,9 @@
-[+] Fixed bugs with keybinds list
-[+] Added Glow style to grenade predition
-[+] Taser range
-[+] Knife range
-[+] G3SG1 and SCAR-20 weapons have been moved to Auto section in ragebot
-[+] Fixed zeus tab in ragebot being the same as Global
-[+] Some menu tweaks ( made it a lil bit more compact, logo has a drop down shadow, changed sidebar a lil bit, now you can see which sub-tab is active )
-[+] Updated smoke timer
-[+] Updated molotov timer
-[+] Prediction update
-[+] Fixed some stuff with fake-lag, now you can use 15 fake lag limit
+[+] Fixed Anti-aim peeking head with peek mode jitter and yaw modifier set to jitter
+[+] Fixed auto peek not coloring particles\sparks style
+[+] Added outline to smoke hull
+[+] New auto peek style called *outline circle*
+[+] Added freestand
+[+] Fixed jump bug showing twice in keybinds list
+[+] Some new player models have been added ( can be found at the bottom of the list )
+[+] Changed config path from *%appdata%\Medusa.uno* to *C:\Medusa.uno* for easier acces
+[+] Fixed crash

@@ -1,4 +1,9 @@
 # Medusa.uno
-This is a public repository for the cheat Medusa.uno that will be used for latest releases and old versions
+CS:GO HvH\Legit cheat
++ Made by : JannesBonk#7353
++ Current version : STABLE 0.7.1
++ Estimated date for the next update : 25.6.2023 , going from STABLE 0.7.1 to STABLE 1.0.0
++ Pasted from : notgoodusename/osirisandextra
++ Discord server : https://discord.gg/NZkPhbUtHR
 
 ![Showcase Image](https://cdn.discordapp.com/attachments/1021282870003777566/1053736572605976706/image.png)

@@ -1,8 +1,7 @@
 # Medusa.uno
 CS:GO HvH\Legit cheat
 + Made by : JannesBonk#7353
-+ Current version : STABLE 0.7.1
-+ Estimated date for the next update : 25.6.2023 , going from STABLE 0.7.1 to STABLE 1.0.0
++ Current version : STABLE 0.9.1
 + Pasted from : notgoodusename/osirisandextra
 + Discord server : https://discord.gg/NZkPhbUtHR
 

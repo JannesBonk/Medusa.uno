@@ -1,4 +1,15 @@
 ----------------------------------------------------------------------------------
+2.1.2023 patch notes :
+[+] Fixed Anti-aim peeking head with peek mode jitter and yaw modifier set to jitter
+[+] Fixed auto peek not coloring particles\sparks style
+[+] Added outline to smoke hull
+[+] New auto peek style called *outline circle*
+[+] Added freestand
+[+] Fixed jump bug showing twice in keybinds list
+[+] Some new player models have been added ( can be found at the bottom of the list )
+[+] Changed config path from *%appdata%\Medusa.uno* to *C:\Medusa.uno* for easier acces
+[+] Fixed crashes
+----------------------------------------------------------------------------------
 5.12.2022 patch notes :
 [+] Added more scope types
 [+] Custom scope can be solid/faded

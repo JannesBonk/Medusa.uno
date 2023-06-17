@@ -5,4 +5,4 @@ CS:GO HvH\Legit cheat
 + Pasted from : notgoodusename/osirisandextra
 + Discord server : https://discord.gg/NZkPhbUtHR
 
-![Showcase Image](https://cdn.discordapp.com/attachments/1021282870003777566/1053736572605976706/image.png)
+![Showcase Image](https://cdn.discordapp.com/attachments/1091044131146567690/1119569110917992530/image.png)

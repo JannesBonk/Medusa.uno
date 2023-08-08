@@ -1,60 +1,16 @@
-Ragebot :
-    [+] Updated resolver
-    [+] Better prediction
-    [+] Fixed shifting with healthshot in hand
-    [+] Fixed tickbase shifting while shooting
-    [+] Fixed a tickbase issue that made you crash
-    [+] Better knifebot
-    [+] New ragebot ( old configs wont work )
-  Legitbot :
-    [+] New legitbot ( old configs wont work )
-  Anti-aim :
-    [+] Added Anti-aim lines
-    [+] Improved jitter
-    [+] Added roll angles
-    [+] Fixed Anti-aim turning off while disabling DT or HS
-    [+] Improved anti-onshot
-  ESP : 
-    [+] Added Ammo bar
-    [+] Added Flags
-    [+] Added weapon icons
-    [+] Fixed some bugs with it being off centered
-    [+] Better dormant ESP
-  Chams :
-    [+] All ticks chams for backtrack
-    [+] Fixed fog f*cking chams color
-    [+] Added fractal cham material
-    [+] Added tie-dye smoke cham material
-    [+] Fixed weapon chams fucking sg553 and aug scope
-    [+] Removed useless "defuser" and "planting" cuz it was useless
-    [+] Fixed localplayer chams not aplying correctly if overriden with hands chams and sleeves chams
-  Glow :
-    [+] Removed useless "defuser" and "planting" cuz it was useless
-  Visuals :
-    [+] Fixed custom post-processing fucking up world and chams
-    [+] Added color to hitmarker
-    [+] More player models
-    [+] On hit models
-    [+] Fixed viewmodel fucking sg553 and aug in scope
-  Misc :
-    [-/+] Removed custom kill say for the new non customizable kill say
-    [+] Under crosshair indicators
-    [+] Updated font for left side indicators
-    [+] Added Medusa.uno hitsound/killsound
-    [+] Keybinds list,Spectator list,Purchase list,Bomb timer,Player list and Hurt indicator have been slightly reworked
-    [+] Added watermark options ( show fps/ping/username , maybe more soon )
-    [+] New logger font
-    [+] Added Coins hitsound/killsound
-    [+] Added more logs for C4 ( where it's being planted, who is and if is defusing )
-    [+] Added spotify addon for watermark
-  Menu :
-    [-/+] Removed RGB values from color picker in the favor of HEX values
-    [+] New sliders
-    [+] Reduced the size of it so it fits on 800x600 screens
-    [+] New combos
-    [+] Better overall menu
-  Other :
-    [+] Small optimization improvements
-    [+] Added blur
-    [+] Updated minhook
-    [+] Better animfix for local player
+too much to add and didnt keep track of them, but here is for the latest updates :
+[+] Fixed backtrack not compensating RCS correctly resulting sometimes in a alot of dumps
+[+] Added Medusa.uno logo auto peek
+[+] Hidden tab that has a grenade warning ( VERY ERALY ADAPTATION )|
+[+] Added misses for ping issue or server rejections
+[+] Updated clantag
+[+] Updated vote revealer to not show [Medusa.uno] anymore
+[+] Added headshot only mode check to ragebot 
+[+] Added notice for vote pass/fail 
+[+] Added notice for which type of vote the player did 
+[+] Added arc style out of fov indicator
+[+] Fixed tickbase prediction errors
+[+] Improved prediction logic
+[+] Reworked double tap
+[+] Reworked the way backtrack works on prediction updates
+[+] Added auto strafer smoothness
